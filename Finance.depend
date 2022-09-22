@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1663841176 source:e:\work\pp\21._09.08_finanse\finance\financemanager.cpp
+	"FinanceManager.h"
+
+1663841587 e:\work\pp\21._09.08_finanse\finance\financemanager.h
+	<iostream>
+	"UserManager.h"
+
+1663866053 e:\work\pp\21._09.08_finanse\finance\usermanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	"UserManager.h"
+	"User.h"
+	"UserXML.h"
+	"AuxiliaryMethods.h"
+
+1663841067 source:e:\work\pp\21._09.08_finanse\finance\main.cpp
+	<iostream>
+	"FinanceManager.h"
+
+1662926941 source:e:\work\pp\21._09.08_finanse\finance\auxiliarymethods.cpp
+	"AuxiliaryMethods.h"
+
+1662926945 e:\work\pp\21._09.08_finanse\finance\auxiliarymethods.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1662926755 source:e:\work\pp\21._09.08_finanse\finance\usermanager.cpp
+	"UserManager.h"
+
+1663866487 e:\work\pp\21._09.08_finanse\finance\userxml.h
+	<iostream>
+
+1663866084 source:e:\work\pp\21._09.08_finanse\finance\userxml.cpp
+
+1663866696 e:\work\pp\21._09.08_finanse\finance\user.h
+	<iostream>
+
+1663866583 source:e:\work\pp\21._09.08_finanse\finance\user.cpp
+
